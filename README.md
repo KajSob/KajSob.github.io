@@ -1,6 +1,8 @@
-# KajSob's first github website
+# This is my first github website.
 
-Testing out some features for educational purposes
+Testing out some features for educational purposes.
+
+Check out our project - UnPause!
 
 We chillin'
 <picture>
